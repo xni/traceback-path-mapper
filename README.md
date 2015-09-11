@@ -4,7 +4,7 @@ This is a simple script to patch Python tracebacks, replacing remote paths with 
 
 Assume that you saw an exception on you remote server.
 Of course it is not your's, it is your colleague's one!
-So, you want to unterstand that's happening as soon as possible.
+So, you want to understand that's happening as soon as possible.
 
 First of all you are switching to the tag,
 which corresponds to the version which is in production now.
